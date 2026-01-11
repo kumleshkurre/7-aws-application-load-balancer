@@ -52,7 +52,7 @@ echo "<html>
 ## 🌐 Testing
 - Copy the Load Balancer DNS name
 - Open it in a browser
-- Refresh multiple times to see responses from different instances
+- Refresh multiple times to see responses from different instances.
 ---
 
 ## 🛠 Troubleshooting (If Website Not Running)
